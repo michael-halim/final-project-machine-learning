@@ -6,4 +6,4 @@ Peter Yudhistira C14190067
 Michael Halim Senatra C14190119
 
 # Dataset Link
-- [https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format]
+- https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
